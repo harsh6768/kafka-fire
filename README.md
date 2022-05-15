@@ -76,7 +76,6 @@ Zookeeper provides multiple features for distributed applications:
 
    - Create ,delete , exists, setData, getData, getChilren
 
-
-
+<img src="https://github.com/harsh6768/kafka-fire/blob/zookeeper-doc/Zookeeper/zookeeper-file-system.png" width="750" height="550" />
 
 
