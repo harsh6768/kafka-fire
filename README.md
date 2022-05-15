@@ -6,6 +6,8 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 Read more about [ZooKeeper](https://zookeeper.apache.org/)
 
+<img src="https://github.com/harsh6768/kafka-fire/blob/zookeeper-doc/Zookeeper/zookeeper.png"/>
+
 
 Zookeeper provides multiple features for distributed applications:
 
@@ -32,6 +34,6 @@ Zookeeper provides multiple features for distributed applications:
 - Node renaming of zNode 
 - Each zNode can be Watched for changes. 
 
-<img src="https://github.com/harsh6768/kafka-fire/blob/zookeeper-doc/Zookeeper/zookeeper.png"/>
+
 
 
