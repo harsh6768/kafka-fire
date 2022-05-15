@@ -66,5 +66,17 @@ Zookeeper provides multiple features for distributed applications:
    - List of outstanding tasks , task assignments.
 
 
+### ZooKeeper's API : 
+
+1. Really a little distributed file system 
+   - With strong consistency guarantees
+   - Replace the concept of **"file"** with **"znode"** and you've pretty much got it
+  
+2. Here's the ZooKeeper API : 
+
+   - Create ,delete , exists, setData, getData, getChilren
+
+
+
 
 
