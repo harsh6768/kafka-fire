@@ -6,7 +6,7 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 Read more about [ZooKeeper](https://zookeeper.apache.org/)
 
-<img src="https://github.com/harsh6768/kafka-fire/blob/zookeeper-doc/Zookeeper/zookeeper.png" width="450" height="450" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/zookeeper-doc/Zookeeper/zookeeper.png" width="750" height="550" />
 
 
 Zookeeper provides multiple features for distributed applications:
