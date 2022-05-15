@@ -31,3 +31,7 @@ Zookeeper provides multiple features for distributed applications:
 - Each zNode can store data
 - Node renaming of zNode 
 - Each zNode can be Watched for changes. 
+
+<img src="https://github.com/harsh6768/kafka-fire/blob/zookeeper-doc/Zookeeper/zookeeper.png"/>
+
+
