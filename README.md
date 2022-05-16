@@ -90,6 +90,10 @@ Zookeeper provides multiple features for distributed applications:
    
  ### ZooKeeper Quorums :
  
+ It's basically the minimum number of server nodes that must be up and running and available for client requests. Any update done to the ZooKeeper tree by the clients must be persistently stored in this quorum of nodes for a transaction to be completed successfully.
+ 
+ [Learn About ZooKeeper Quorums](https://medium.com/@akash.d.goel/zookeeper-quorum-7916e342faf6#:~:text=It's%20basically%20the%20minimum%20number,transaction%20to%20be%20completed%20successfully.)
+ 
  **Brain Split Problem** : 
  
  
