@@ -79,3 +79,29 @@ Zookeeper provides multiple features for distributed applications:
 <img src="https://github.com/harsh6768/kafka-fire/blob/zookeeper-doc/Zookeeper/zookeeper-file-system.png" width="550" height="550" />
 
 
+### Persistent and ephemeral znodes : 
+
+1. Persistent znodes remain stored until explicitly deleted
+  - i.e. , assignment of tasks of workers must persis event if master crashes 
+ 
+2. Ephemeral znodes go away if the client that created it crashes or loses its connection to Zookeeper
+  - i.e. , if the master crashes , it should releases its lock on the znode that indicates which node is the master
+  
+   
+ ### ZooKeeper Quorums :
+ 
+ **Brain Split Problem** : 
+ 
+ 
+ 1. [Learn More About Brain Split](https://javamana.com/2020/12/20201210211354350p.html)
+ 2. [Learn More About Brain Split](https://blog.actorsfit.com/a?ID=01300-582eef31-3269-41b7-80ab-d4da36d4f73f)
+ 3. [Learn More About Brain Split](https://blog.fearcat.in/a?ID=01750-f16b0dc2-aef8-496c-b886-388f99395e38)
+ 
+ 
+   
+   
+
+
+
+
+
