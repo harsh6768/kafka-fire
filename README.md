@@ -108,15 +108,15 @@ Zookeeper provides multiple features for distributed applications:
 ## Install Kafka and Zookeeper on Local Machine and Setup 
 
 
-- STEP 1 : Install Kafka (It will include Kafka and Zookeeper ,don't need to install Zookeeper seperately) 
+> Install Kafka (It will include Kafka and Zookeeper ,don't need to install Zookeeper seperately) 
   
  Go to  Kafka Website [Kafka and Zookeeper](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.2.0/kafka-3.2.0-src.tgz)
   
        
         tar -xvzf  kafka-3.2.0-src.tgz
 
-- STEP 2 : Setup Kafka and Zookeeper 
+>  Setup Kafka and Zookeeper 
 
-    <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" width="550" height="550" />
+    <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
 
 
