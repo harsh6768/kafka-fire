@@ -117,6 +117,6 @@ Zookeeper provides multiple features for distributed applications:
 
 >  Setup Kafka and Zookeeper 
 
-    <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
 
 
