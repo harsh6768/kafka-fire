@@ -124,8 +124,9 @@ Zookeeper provides multiple features for distributed applications:
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.40.12%20PM.png" />
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.07.28%20PM.png" />
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.07.46%20PM.png" />
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.08.00%20PM.png)" />
-
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.08.00%20PM.png" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.10.15%20PM.png" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.10.48%20PM.png" />
 
 
 
