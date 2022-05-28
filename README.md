@@ -120,10 +120,47 @@ Zookeeper provides multiple features for distributed applications:
 - **configure ip of server in config/server.properties**
 
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
+
+> **In place of this**
+
+         advertised.listeners=PLAINTEXT://your.host.name:9092 
+         
+         add your ip address if doing setup on remote machine or just put localhost if you are using it in local machine. 
+         
+         advertised.listeners=PLAINTEXT://localhost:9092        // Im doing setup on local machine
+
+
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.44%20PM.png" />
+
+> **In place of this **
+     
+        zookeeper.connect=localhost:2181        
+      
+       leave it as it is if you are in local machine or put your ip address if your are in remote machine.
+      
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.40.12%20PM.png" />
+
+> **Run below command to start the zookeeper 
+        
+         bin/zookeeper-server-start.sh config/zookeeper.properties
+         
+         
+ - It you are getting error while running this command like below mentioned 
+   
+        Classpath is empty.Please build the project first e.g. by running './gradlew jar -PscalaVersion=2.13.6'
+      
+  **then run the below command to resolve the issue**
+  
+       ./gradlew jar -PscalaVersion=2.13.6
+            
+        
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.07.28%20PM.png" />
+
+> **You will see Build successful . now you can run the above command to run the zookeeper
+ 
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.07.46%20PM.png" />
+
+
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.08.00%20PM.png" />
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.10.15%20PM.png" />
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.10.48%20PM.png" />
