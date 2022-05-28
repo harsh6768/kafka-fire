@@ -125,7 +125,7 @@ Zookeeper provides multiple features for distributed applications:
 
         advertised.listeners=PLAINTEXT://your.host.name:9092 
          
-  **add your ip address if doing setup on remote machine or just put localhost if you are using it in local machine.** 
+  **add your ip address if doing setup on remote machine so that consumer can connect with Kafka to consume the messages form kafka or just put localhost if you are using it in local machine.** 
          
         advertised.listeners=PLAINTEXT://localhost:9092        // Im doing setup on local machine
 
@@ -171,10 +171,13 @@ Zookeeper provides multiple features for distributed applications:
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.08.00%20PM.png" />
 
 
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.10.15%20PM.png" />
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.10.48%20PM.png" />
+- **Run below command to run Kafka Server**
 
-
-
+       JMX_PORT=8004 bin/kafka-server-start.sh config/server.properties
+       
+  JMX_PORT will be used later on by kafka manager
+  
+  
+       
 
 
