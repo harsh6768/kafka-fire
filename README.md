@@ -120,13 +120,12 @@ Zookeeper provides multiple features for distributed applications:
 - **configure ip of server in config/server.properties**
 
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.44%20PM.png" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.40.12%20PM.png" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.07.28%20PM.png" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.07.46%20PM.png" />
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.08.00%20PM.png)" />
 
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.08%20PM.png" />
-https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%205.36.44%20PM.png
 
 
 
