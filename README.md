@@ -164,7 +164,13 @@ Zookeeper provides multiple features for distributed applications:
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.07.46%20PM.png" />
 
 
+- **Now again run the below command to run the zookeeper in local machine and you will see server is running on port 2181(Zookeeper Default port)**
+ 
+       bin/zookeeper-server-start.sh config/zookeeper.properties
+       
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.08.00%20PM.png" />
+
+
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.10.15%20PM.png" />
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-27%20at%206.10.48%20PM.png" />
 
