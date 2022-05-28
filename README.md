@@ -177,6 +177,9 @@ Zookeeper provides multiple features for distributed applications:
        
   JMX_PORT will be used later on by kafka manager
   
+ 
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/Zookeeper/Screenshot%202022-05-28%20at%203.12.39%20PM.png" />
+  
   
        
 
