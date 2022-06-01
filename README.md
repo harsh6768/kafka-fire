@@ -183,4 +183,11 @@ Zookeeper provides multiple features for distributed applications:
   
        
 
+### KAFKA MANAGER : 
+
+Goto [CMAK website](https://github.com/yahoo/CMAK) 
+
+There are different steps to install and setup kafka manager
+
+
 
