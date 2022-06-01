@@ -185,9 +185,22 @@ Zookeeper provides multiple features for distributed applications:
 
 ### KAFKA MANAGER : 
 
-Goto [CMAK website](https://github.com/yahoo/CMAK) 
+Go to [CMAK website](https://github.com/yahoo/CMAK) to find cmak repository
 
 There are different steps to install and setup kafka manager
 
 
+- Clone cmak from [CMAK website](https://github.com/yahoo/CMAK) by using below command 
+
+
+       git clone https://github.com/yahoo/CMAK.git
+       
+
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-01%20at%2010.48.05%20AM.png" />
+
+
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-01%20at%2010.50.48%20AM.png" />
+
+
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-01%20at%2010.51.14%20AM.png" />
 
