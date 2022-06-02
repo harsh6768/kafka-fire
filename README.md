@@ -194,13 +194,23 @@ There are different steps to install and setup kafka manager
 
 
        git clone https://github.com/yahoo/CMAK.git
+        
        
-
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-01%20at%2010.48.05%20AM.png" />
 
 
+- Go inside CMAK folder and run below command 
+
+       ./sbt clean dist 
+      
+      
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-01%20at%2010.50.48%20AM.png" />
 
 
+- After running the above command if you are getting error something like  **Cannnot use JVMCI compiler : No JVMCI compiler found** and if you are on mac you can install the cbt using brew , **Run below command to install sbt**
+
+        brew install sbt
+        
+        
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-01%20at%2010.51.14%20AM.png" />
 
