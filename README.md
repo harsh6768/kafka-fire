@@ -230,9 +230,14 @@ There are different steps to install and setup kafka manager
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%2010.22.49%20AM.png" />
 
 
-<img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%2010.22.49%20AM.png" />
 
 
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%2011.07.38%20AM.png" />
+
+
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%203.18.08%20PM.png" />
+
+<img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%203.18.36%20PM.png" />
+
 
 
