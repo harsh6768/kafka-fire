@@ -231,11 +231,19 @@ There are different steps to install and setup kafka manager
 
 
 
+- After unzipping the cmak , go to **path cmak-3.0.0.6/conf** path and edit application.conf and find the below mention **key cmak.zkhosts and put ip address if you are on remote machine or the localhost if you are setting on the local machine**
+  
+   
+       cmak.zkhosts="localhost:2181"      //paste remote machine ip address and put localhost if you are on local machine 
 
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%2011.07.38%20AM.png" />
 
 
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%203.18.08%20PM.png" />
+
+- **Go to path  cmak-3.0.0.6 again and run the below to start the KAFKA SERVER TO MANAGE THE KAKFA** 
+
+       bin/cmak -Dconfig.file=conf/application.conf -Dhttp.port=8080 
 
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%203.18.36%20PM.png" />
 
