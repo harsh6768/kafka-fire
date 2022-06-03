@@ -221,5 +221,9 @@ There are different steps to install and setup kafka manager
 
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-02%20at%2010.54.08%20AM.png" />
 
+- **When you sbt cleans up , it prepares your package in some path ,now you have to go to that path and unzip the package**
 
+     [info] Your package is ready in /Users/harsh/Downloads/CMAK/target/universal/cmak-3.0.0.6.zip
+     
+     
 <img src="https://github.com/harsh6768/kafka-fire/blob/main/kafka-manager/Screenshot%202022-06-03%20at%2010.22.49%20AM.png" />
