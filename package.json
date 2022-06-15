@@ -1,0 +1,26 @@
+{
+  "name": "kafka-fire",
+  "version": "1.0.0",
+  "description": "#### What is ZooKeeper?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:producer": "nodemon app_producer.js",
+    "start:consumer":"nodemon app_consumer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh6768/kafka-fire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh6768/kafka-fire/issues"
+  },
+  "homepage": "https://github.com/harsh6768/kafka-fire#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "kafkajs": "^2.0.2"
+  }
+}
